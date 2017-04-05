@@ -3,3 +3,5 @@ add: thay đổi
 Chúng ta không thuộc về nhau
 pull:Lấy nội dung của remote repository
 
+
+updated
